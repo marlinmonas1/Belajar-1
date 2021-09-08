@@ -1,0 +1,55 @@
+FORM:
+-nama
+-nama panggilan
+-email
+-jenis kelamin
+-ttl
+-alamat ktp
+-tempat tinggal
+-nik
+-asal sekolah
+-nisn
+-jurusan1
+-jurusan2
+-kewrganegaraan
+-agama
+-ijazah/raport
+-tinggi
+-berat
+-umur
+-riwayat penyakit
+-cita-cita
+-hobi
+-no telp
+-anak ke
+-status
+-golongan darah
+-suku
+-prestasi
+-bakat
+-pelajaran paling disukai
+-motto hidup
+-no akta/kk
+-foto diri,rumah,keluarga
+-KIS/BPJS
+-KIP
+-surat sehat
+-surat keterangan baik
+-spp sekolah
+-sekolah saudara dan biaya
+-sktm
+
+ORTU/WALI:
+-nama
+-perkerjaan
+-asal
+-lulusan
+-ttl
+-agama
+-usia
+-no.tlp
+-penghasilan
+
+FITUR:
+-ubah data
+-akun
