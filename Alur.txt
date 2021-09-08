@@ -37,7 +37,7 @@ FORM:
 -surat keterangan baik
 -spp sekolah
 -sekolah saudara dan biaya
--sktm
+-sktmasddasdsa
 
 ORTU/WALI:
 -nama
