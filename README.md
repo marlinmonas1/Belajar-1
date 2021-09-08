@@ -1,2 +1,2 @@
-# Belajar
+# Algoritma PPDB
 untuk belajar git bersama
