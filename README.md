@@ -1,2 +1,2 @@
 # Algoritma PPDB
-untuk belajar git bersama
+Merancang algoritma projek PPDB
